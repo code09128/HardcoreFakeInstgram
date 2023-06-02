@@ -5,6 +5,7 @@
 1. Infinite scroll 捲軸瀏覽至底載入新資料，直到 API 沒有資料
 2. Pull-to-refresh下拉更新圖片
 3. Error handling 呈現 retry 頁面
+4. coding layout not used storyboard 
 
 ## 程式結構
 
