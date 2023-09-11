@@ -1,5 +1,10 @@
 # FakeInstagram
 
+<div  align="center">
+<img src="https://github.com/code09128/HardcoreFakeInstgram/assets/32324308/eacc50da-4477-460a-be0a-29ce10c5e02a" width="320px"/>
+<img src="https://github.com/code09128/HardcoreFakeInstgram/assets/32324308/232f0819-ce71-45d6-8555-e09777048b4d" width="320px"/>
+</div>
+
 ## 仿Instagram
 
 1. Infinite scroll 捲軸瀏覽至底載入新資料，直到 API 沒有資料
